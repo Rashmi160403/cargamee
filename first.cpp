@@ -6,7 +6,7 @@
 
 #define SCREEN_WIDTH 90
 #define SCREEN_HEIGHT 26
-#define WIN_WIDTH 70
+#define WIN_WIDTH 71
 
 using namespace std;
 
